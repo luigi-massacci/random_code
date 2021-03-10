@@ -1,2 +1,2 @@
-# random_code
-Some code I've written for various reason
+# Random Code
+Some stand-alone code I've written for various reasons.
